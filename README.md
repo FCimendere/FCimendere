@@ -16,4 +16,4 @@ As a self-taught full-stack developer, I love to improve my knowledge and share 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCimendere&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FCimendere.FCimendere)
