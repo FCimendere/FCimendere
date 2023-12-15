@@ -14,7 +14,6 @@ As a self-taught full-stack developer, I love to improve my knowledge and share 
 ![CSS logo.](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![Python logo.](https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565)
  
-![Fulya's Github Stats](https://github-readme-stats.vercel.app/api?username=FCimendere&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCimendere&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
