@@ -13,4 +13,4 @@ As a self-taught full-stack developer, I love to improve my knowledge and share 
 - 📫 How to reach me: fulyacoskun.87@gmail.com
 - ⚡ Fun fact: newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
 
-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
