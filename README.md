@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fulya Cimendere
+### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
 
 
