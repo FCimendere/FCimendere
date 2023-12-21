@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on --> ***<a href="https://www.udemy.com/course/the-web-developer-bootcamp/" style="text-decoration: none">Web Developer Bootcamp</a>*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
 - 🔭 I’m previously worked on -->  [**#100daysofCode in Python**](https://github.com/FCimendere/100-Days-of-Code-Python)
-- 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/26159087-6061-4fa2-aa0b-45167c315e2e"/></a></table>
+- 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/b443eb49-f450-4a3f-a028-43f327e2c6c9"/></a></table>
 - ⚡ Fun fact: I am a newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
 
 <h3>Things I code with</h3>
