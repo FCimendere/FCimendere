@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
-
+<a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/0051cb60-f5aa-4930-9045-e8469968c4ab" /></a>
+![mail](https://github.com/FCimendere/FCimendere/assets/65401609/0051cb60-f5aa-4930-9045-e8469968c4ab)
 
 - 🔭 I’m currently working on --> ***The Web Developer Bootcamp*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
