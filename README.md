@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
 <table>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">
-Reach Me!</a>
- <button href="#" class="small success rounded">Reach me!</button>
+<a href=""mailto: fulyacoskun.87@gmail.com"">
+Send me e-mail</a>
 </table>
 
 - 🔭 I’m currently working on --> ***The Web Developer Bootcamp*** 
