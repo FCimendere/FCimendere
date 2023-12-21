@@ -5,7 +5,7 @@ As a self-taught full-stack developer, I love to improve my knowledge and share 
 - 🔭 I’m currently working on --> ***The Web Developer Bootcamp*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
 - 🔭 I’m previously worked on -->  [**#100daysofCode in Python**](https://github.com/FCimendere/100-Days-of-Code-Python)
-- 📫 How to reach me: <table><button href="mailto: fulyacoskun.87@gmail.com">Send me e-mail</button></table>
+- 📫 How to reach me: <table><button class="small success radius" href="mailto: fulyacoskun.87@gmail.com">Send me e-mail</button></table>
 - ⚡ Fun fact: I am a newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
 
  **Languages and Tools:** 
