@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
 <table>
-<a href=""mailto: fulyacoskun.87@gmail.com"">
+<a href="mailto: fulyacoskun.87@gmail.com">
 Send me e-mail</a>
 </table>
 
