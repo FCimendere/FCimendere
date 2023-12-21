@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
-
-<button href="#" class="small success rounded">Reach me!</button>
+<table>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">
+Reach Me!</a>
+ <button href="#" class="small success rounded">Reach me!</button>
+</table>
 
 - 🔭 I’m currently working on --> ***The Web Developer Bootcamp*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
