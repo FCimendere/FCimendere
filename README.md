@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Fulya 
 As a self-taught full-stack developer, I love to improve my knowledge and share it with others.
 
-![mail (2)](https://github.com/FCimendere/FCimendere/assets/65401609/26159087-6061-4fa2-aa0b-45167c315e2e)
-![mail (1)](https://github.com/FCimendere/FCimendere/assets/65401609/91590e2e-2659-4eb1-b715-66774b38a828)
-
 
 - 🔭 I’m currently working on --> ***The Web Developer Bootcamp*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
 - 🔭 I’m previously worked on -->  [**#100daysofCode in Python**](https://github.com/FCimendere/100-Days-of-Code-Python)
-- 📫 How to reach me: <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/0051cb60-f5aa-4930-9045-e8469968c4ab" width="100" height="50"/></a></table>
+- 📫 How to reach me: <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/26159087-6061-4fa2-aa0b-45167c315e2e"/></a></table>
 - ⚡ Fun fact: I am a newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
 
  **Languages and Tools:** 
