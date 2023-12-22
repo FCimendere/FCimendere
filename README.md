@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/FCimendere/FCimendere/assets/65401609/01cb6352-cff1-4a90-8990-cfcae28249d3" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Fulya, <b>a self-taught Full-stack Developer</b>, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
+<p>Welcome to my page! </br>I'm Fulya, <b>a self-taught Full-stack Developer</b>, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
 
 - 🔭 I’m currently working on --> ***<a href="https://www.udemy.com/course/the-web-developer-bootcamp/" style="text-decoration: none">Web Developer Bootcamp</a>*** 
 - 🌱 I’m currently learning **HTML & CSS & JavaScript**
