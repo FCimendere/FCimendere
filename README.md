@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br></br> I'm Fulya, <b>a self-taught Full-stack Developer</b>, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
 
 - 🔭 I’m currently working on --> ***<a href="https://www.udemy.com/course/the-web-developer-bootcamp/" style="text-decoration: none">Web Developer Bootcamp</a>*** 
-- 🌱 I’m currently learning **HTML & CSS & JavaScript**
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
 - 🔭 I’m previously worked on -->  [**#100daysofCode in Python**](https://github.com/FCimendere/100-Days-of-Code-Python)
 - 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/></a></table>
 - ⚡ Fun fact: I am a newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
