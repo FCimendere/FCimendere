@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br></br> I'm Fulya, <b>a self-taught Full-stack Developer</b>, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
 
-<p>I am proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved. </p>
+<p>I am proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved.</p>
 
 - 🔭 I’m currently working on --> ***<a href="https://www.udemy.com/course/the-web-developer-bootcamp/" style="text-decoration: none">Web Developer Bootcamp</a>*** 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
