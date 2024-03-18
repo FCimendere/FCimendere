@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Node.JS,Express and EJS** with ***<a href="https://www.udemy.com/course/the-web-developer-bootcamp/" style="text-decoration: none">Web Developer Bootcamp</a>*** 
 - 🔭 I’m previously worked on -->  [**#100daysofCode in Python**](https://github.com/FCimendere/100-Days-of-Code-Python)
 - 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulyacoskun.87@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/></a></table>
-- ⚡ Fun fact: I am a newbie acrylic artist, a fan of the epic fantasy fiction genres such as LOTR
+- ⚡ Fun fact: I am a newbie acrylic artist, a fan of LOTR and Doctor Who
 <hr>
 <h3>Things I code with</h3>
 <span>
