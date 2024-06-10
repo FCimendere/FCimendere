@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="express logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45" alt="Node.js"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="40" alt="JS logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="40" alt="Python logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="40"/>
@@ -29,5 +29,5 @@
 </span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCimendere&hide=TeX&layout=compact)
-![Fulya Cimendere's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCimendere&theme=transparent&show_icons=true)
+![FCimendere's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCimendere&theme=transparent&show_icons=true)
 
