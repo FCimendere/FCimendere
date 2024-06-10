@@ -29,5 +29,5 @@
 </span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCimendere&hide=TeX&layout=compact)
-![Fulya Cimendere's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
+![Fulya Cimendere's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCimendere&theme=transparent&show_icons=true)
 
