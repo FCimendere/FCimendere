@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently practising **React** 
-- 🔭 I’m previously worked on -->  [**#YelpCamp Project**]([https://github.com/FCimendere/Dive-into-JS])
+- 🔭 Notable Projects -->  [**#YelpCamp Project**]([https://github.com/FCimendere/Dive-into-JS]) - [**#JavaScript Practises - Dive-into-JS**]([https://github.com/FCimendere/Dive-into-JS]) - [**#Python Practises -  100-Days-of-Code-Python**]([https://github.com/FCimendere/100-Days-of-Code-Python])
 - 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/></a></table>
 - ⚡ Fun fact: I am a newbie acrylic artist and a big fan of well-designed digital illustrations.
 <hr>
