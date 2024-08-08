@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently practising **React / Tailwind CSS** 
 - 🔭 Notable Projects -->
+  - [**#ShareMe-Social-Media-App**]([https://github.com/FCimendere/ShareMe-Social-Media-App])
   - [**#YelpCamp Project**]([https://github.com/FCimendere/Dive-into-JS])
   - [**#JavaScript Practises - Dive-into-JS**]([https://github.com/FCimendere/Dive-into-JS])
   - [**#Python Practises -  100-Days-of-Code-Python**]([https://github.com/FCimendere/100-Days-of-Code-Python])
