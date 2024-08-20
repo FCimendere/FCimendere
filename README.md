@@ -4,7 +4,7 @@
 
 <p><i> "I am proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved." </i></p>
 
-- 👩‍💻 I'm currently working as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
+- 👩‍💻 I'm currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
 - 🌱 I’m currently practising **React / Tailwind CSS** 
 - 🔭 Notable Projects -->
   - [**#ShareMe-Social-Media-App**]([https://github.com/FCimendere/ShareMe-Social-Media-App])
