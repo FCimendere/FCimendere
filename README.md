@@ -4,7 +4,7 @@
 
 <p><i> "I am proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved." </i></p>
 
-
+- 👩‍💻 I'm currently working as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
 - 🌱 I’m currently practising **React / Tailwind CSS** 
 - 🔭 Notable Projects -->
   - [**#ShareMe-Social-Media-App**]([https://github.com/FCimendere/ShareMe-Social-Media-App])
@@ -12,7 +12,7 @@
   - [**#JavaScript Practises - Dive-into-JS**]([https://github.com/FCimendere/Dive-into-JS])
   - [**#Python Practises -  100-Days-of-Code-Python**]([https://github.com/FCimendere/100-Days-of-Code-Python])
 - 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/></a></table>
-- ⚡ Fun fact: I am a newbie acrylic artist and a big fan of well-designed digital illustrations.
+- ⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations.
 <hr>
 
 <h3>Things I code with :</h3>
