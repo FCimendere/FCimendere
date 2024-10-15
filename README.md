@@ -1,18 +1,22 @@
-<h1><img src="https://github.com/FCimendere/FCimendere/assets/65401609/01cb6352-cff1-4a90-8990-cfcae28249d3" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://github.com/FCimendere/FCimendere/assets/65401609/01cb6352-cff1-4a90-8990-cfcae28249d3" width="30"/> Hey There!</h1>
+ 
+<p>Welcome! </br></br> I'm your friendly full-stack developer with a "can do" attitude and a knack for turning coffee into code, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
 
-<p>Welcome to my page! </br></br> I'm Fulya, <b>a self-taught Full-stack Developer</b>, currently living in <img src="https://github.com/FCimendere/FCimendere/assets/65401609/df4e077b-ade0-4910-ad90-573331efe1ed" width="13"/> <b>The Netherlands</b>.</p>
+<p> 🧙🏼‍♀️ <i> I'm somewhere else between loving playing the shapes which users go "wow", and solving complex algorithms that would make Einstein scratch his head. </i></p>
 
-<p><i> "I am proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved." </i></p>
+ <p> 🤜 Proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved. </p>
 
-- 👩‍💻 I'm currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
-- 🌱 I’m currently practising **React / Tailwind CSS** 
-- 🔭 Notable Projects -->
+- 👩‍💻 Currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
+- 🌱 Practising **React/TypeScript/Next.Js** 
+- Notable Projects -->
   - [**#ShareMe-Social-Media-App**]([https://github.com/FCimendere/ShareMe-Social-Media-App])
   - [**#YelpCamp Project**]([https://github.com/FCimendere/Dive-into-JS])
-  - [**#JavaScript Practises - Dive-into-JS**]([https://github.com/FCimendere/Dive-into-JS])
-  - [**#Python Practises -  100-Days-of-Code-Python**]([https://github.com/FCimendere/100-Days-of-Code-Python])
-- 📫 Reach me via e-mail --> <table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/></a></table>
-- ⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations.
+
+⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations.  
+
+<table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/>&nbsp;&nbsp;Let's connect via E-mail</a> </table>  
+
+
 <hr>
 
 <h3>Things I code with :</h3>
