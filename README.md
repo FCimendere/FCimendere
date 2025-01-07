@@ -9,8 +9,11 @@
 - 👩‍💻 Currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
 - 🌱 Practising **React/TypeScript** 
 - Notable Projects -->
-  - [**#ShareMe-Social-Media-App**]([https://github.com/FCimendere/ShareMe-Social-Media-App])
-  - [**#YelpCamp Project**]([https://github.com/FCimendere/Dive-into-JS])
+   - [E-Commerce Webshop](https://ecommerce-psi-six-78.vercel.app/)
+   - [YelpCamp - Yelp Clone for campings](https://yelp-camp-rgop.onrender.com/)
+   - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
+   - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
+   - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
 
 ⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations.  
 
