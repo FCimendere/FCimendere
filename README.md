@@ -6,16 +6,21 @@
 
 <!-- <p> 🤜 Proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved. </p>-->
 
-- 👩‍💻 Currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
-- 🌱 Practising **React/TypeScript** 
-- Notable Projects -->
+👩‍💻 Currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
+<br>
+🌱 Practising **React/TypeScript** 
+<br>
+⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations. 
+<br>
+<br>
+🛠️ Notable Projects -->
    - [E-Commerce Webshop](https://ecommerce-psi-six-78.vercel.app/)
    - [YelpCamp - Yelp Clone for campings](https://yelp-camp-rgop.onrender.com/)
    - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
    - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
    - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
 
-⚡ Fun fact: I am a newbie acrylic/watercolor artist and a big fan of well-designed digital illustrations.  
+ 
 
 <table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/>&nbsp;&nbsp;Let's connect via E-mail</a> </table>  
 
