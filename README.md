@@ -20,11 +20,14 @@
    - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
    - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
 <br>
-📮 Let's Connect: 
+📮 Let's Connect&nbsp;: 
 <!--<a href="mailto: fulya.cimendere@gmail.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> -->
 <a href="mailto: fulya.cimendere@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
 <a href="https://www.linkedin.com/in/fulya-cimendere/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
-
+<br><br>
+✍🏻 Writing on&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 
+<a href="https://dev.to/fcimendere"><img  alt="DevTo" title="DevTo" src="https://img.shields.io/static/v1?message=DEV.to&logo=DEV&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+<a href="https://medium.com/@fulyacoskun.87"><img  alt="Medium" title="Medium" src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=f1f1f1&logoColor=black&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
 <hr>
