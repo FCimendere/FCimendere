@@ -6,7 +6,7 @@
 
 <!-- <p> 🤜 Proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved. </p>-->
 
-👩‍💻 Currently supporting the world as a full-stack developer(volunteer) [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
+👩‍💻 Currently supporting the world as a <b>Full-stack Developer</b> [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
 <br>
 🌱 Practising **React/TypeScript** 
 <br>
@@ -19,10 +19,12 @@
    - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
    - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
    - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
+<br>
+📮 Let's Connect: 
+<!--<a href="mailto: fulya.cimendere@gmail.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> -->
+<a href="mailto: fulya.cimendere@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> 
+<a href="https://www.linkedin.com/in/fulya-cimendere/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
- 
-
-<table class="button"><a href="mailto: fulya.cimendere@gmail.com" target="_blank"><img alt="email" src="https://github.com/FCimendere/FCimendere/assets/65401609/837f5dad-00a8-45af-8160-75a512e97dd6"/>&nbsp;&nbsp;Let's connect via E-mail</a> </table>  
 
 
 <hr>
