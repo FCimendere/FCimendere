@@ -6,7 +6,9 @@
 
 <!-- <p> 🤜 Proud of myself every day, every step of the way. Not because I'm still going, but because I've proven to myself my capacity and what I've achieved. </p>-->
 
-👩‍💻 Currently supporting the world as a <b>Full-stack Developer</b> [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]) 
+👩‍💻 Currently, supporting the world as a <b>Full-stack Developer</b> [**@Nordic Waves Group**]([https://github.com/NordicWavesGroup]).
+👩‍💻 Currently, developing for the AI nutritionist as a <b>Full-stack Developer</b> [**@Nutrish.ai**]([https://github.com/Nutrish-ai]).
+
 <br>
 🌱 Practising **React/TypeScript** 
 <br>
