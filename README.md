@@ -17,11 +17,13 @@
 <br>
 <br>
 🛠️ Notable Projects -->
+
    - [E-Commerce Webshop](https://ecommerce-psi-six-78.vercel.app/)
    - [YelpCamp - Yelp Clone for campings](https://yelp-camp-rgop.onrender.com/)
    - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
    - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
    - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
+
 <br>
 📮 Let's Connect&nbsp;: 
 <!--<a href="mailto: fulya.cimendere@gmail.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> -->
