@@ -19,7 +19,7 @@
 🛠️ Notable Projects -->
 
    - [E-Commerce Webshop](https://ecommerce-psi-six-78.vercel.app/)
-   - [YelpCamp - Yelp Clone for campings](https://yelp-camp-rgop.onrender.com/)
+   - [YelpCamp - Yelp Clone for campings](https://yelp-camp-gamma-five.vercel.app/)
    - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
    - [Blog Preview Card](https://blog-preview-card-seven-iota.vercel.app/)
    - [Social Profile Card](https://social-links-profile-steel.vercel.app/)
