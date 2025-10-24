@@ -15,7 +15,8 @@
 <br>
 <br>
 🛠️ Notable Projects -->
-
+   
+   - [AI Translator](https://translation-ai-app-86r6.vercel.app/)
    - [E-Commerce Webshop](https://ecommerce-psi-six-78.vercel.app/)
    - [YelpCamp - Yelp Clone for campings](https://yelp-camp-gamma-five.vercel.app/)
    - [ShareMe App - Photo sharing app](https://sharemebyfly.netlify.app/login)
